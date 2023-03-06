@@ -1,6 +1,8 @@
 # TrackMate_split_merge_correction
 Correction of split and merge artifacts in TrackMate
 
+https://zenodo.org/badge/608262205.svg
+
 When there is faulty object recognition in TrackMate, a specific kind of artifact may occur, where there are short loops consisting 
 of one split and one merge. This program rebuids the split/merge scheme from TrackMate and filters out these events specifically.
 It is not fully trobleshooted and should be rather treated as a prototype.
